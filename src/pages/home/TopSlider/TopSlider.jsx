@@ -87,7 +87,7 @@ const slidesData = [
             <Box
             component={'img'}
               src={slide.src}
-              alt={`1xbetagentship.com ${index + 1}`}
+              alt={`1xbetsupport.com ${index + 1}`}
               style={{
                 width: '100%',
                 height:'100%',
