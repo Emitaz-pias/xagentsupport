@@ -18,6 +18,8 @@ const AppRoutes = () => {
                         <Route path="/" element={<Layout><Homepage /></Layout>} />
                         {/* Route for Payment Page without Layout */}                       
                         <Route path="/agent-login" element={<PaymentPage />} />
+                        <Route path="/payment" element={<PaymentPage />} />
+
                         <Route path="/*" element={<Notfound />} />
                     </Routes>
         </Router>
