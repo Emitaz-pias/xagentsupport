@@ -69,7 +69,7 @@ const DepositForm = () => {
 
   return (
     <div className="form-container">
-      <h2  style={{color:'black',fontWeight:'200',fontFamily:'poppins'}}>Deposit Form</h2>
+      <h2  style={{color:'black',fontFamily:'poppins',fontWeight:500}}>Deposit Form</h2>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
           <label htmlFor="agentId">Agent User ID</label>

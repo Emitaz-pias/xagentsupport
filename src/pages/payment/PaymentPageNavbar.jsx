@@ -90,7 +90,7 @@ const PaymentNavbar = () => {
         }}
       >
         {/* Logo Section */}
-        <Box component="img" src={logo} alt="Logo" sx={{ width: 100,backgroundColor:'#3c76d2',padding:'0.5em',borderRadius:'1em' }} />
+        <Box component="img" src={logo} alt="Logo" sx={{ width: 100,backgroundColor:'black',padding:'0.5em',borderRadius:'1em' }} />
 
         {/* Notification Icon */}
         <IconButton
