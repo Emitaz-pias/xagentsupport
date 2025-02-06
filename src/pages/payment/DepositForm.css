@@ -23,14 +23,21 @@
     color: black;
   }
   
-  input,
-  select {
-    width: 100%;
+  input {
+    width:90%;
     padding: 8px;
     border: 1px solid #ccc;
     border-radius: 4px;
     font-size: 16px;
   }
+  select {
+    width:95%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
   
   button {
     width: 100%;
